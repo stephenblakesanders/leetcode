@@ -1,0 +1,15 @@
+D:\Leetcode\1-Two Sum\bin\Debug\net7.0\1-Two Sum.exe
+D:\Leetcode\1-Two Sum\bin\Debug\net7.0\1-Two Sum.deps.json
+D:\Leetcode\1-Two Sum\bin\Debug\net7.0\1-Two Sum.runtimeconfig.json
+D:\Leetcode\1-Two Sum\bin\Debug\net7.0\1-Two Sum.dll
+D:\Leetcode\1-Two Sum\bin\Debug\net7.0\1-Two Sum.pdb
+D:\Leetcode\1-Two Sum\obj\Debug\net7.0\1-Two Sum.csproj.AssemblyReference.cache
+D:\Leetcode\1-Two Sum\obj\Debug\net7.0\1-Two Sum.GeneratedMSBuildEditorConfig.editorconfig
+D:\Leetcode\1-Two Sum\obj\Debug\net7.0\1-Two Sum.AssemblyInfoInputs.cache
+D:\Leetcode\1-Two Sum\obj\Debug\net7.0\1-Two Sum.AssemblyInfo.cs
+D:\Leetcode\1-Two Sum\obj\Debug\net7.0\1-Two Sum.csproj.CoreCompileInputs.cache
+D:\Leetcode\1-Two Sum\obj\Debug\net7.0\1-Two Sum.dll
+D:\Leetcode\1-Two Sum\obj\Debug\net7.0\refint\1-Two Sum.dll
+D:\Leetcode\1-Two Sum\obj\Debug\net7.0\1-Two Sum.pdb
+D:\Leetcode\1-Two Sum\obj\Debug\net7.0\1-Two Sum.genruntimeconfig.cache
+D:\Leetcode\1-Two Sum\obj\Debug\net7.0\ref\1-Two Sum.dll

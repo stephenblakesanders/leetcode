@@ -1,4 +1,4 @@
-﻿public class Solution {
+﻿public class LengthOfLongestSubstringSol {
     public int LengthOfLongestSubstring(string s) {
         string sub = "";
         int longest = 0;
@@ -36,7 +36,7 @@
 
     static void Main(string[] args)
     {
-        Solution i = new Solution();
+        LengthOfLongestSubstringSol i = new LengthOfLongestSubstringSol();
         var test = i.LengthOfLongestSubstring("dvdf");
         Console.WriteLine(test.ToString());
     }

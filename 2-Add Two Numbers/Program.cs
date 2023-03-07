@@ -7,7 +7,7 @@
     }
 }
 
-public class Solution {
+public class AddTwoNumbersSol {
     public ListNode AddTwoNumbers(ListNode l1, ListNode l2) {
         // interate through l1 and l2
         // while l1 != null || l2 != null
@@ -41,7 +41,7 @@ public class Solution {
 
     static void Main(string[] args)
     {
-        Solution i = new Solution();
+        AddTwoNumbersSol i = new AddTwoNumbersSol();
 
         ListNode l1 = new ListNode(2);
         var pointer = l1;
